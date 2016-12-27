@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link href="style.css" rel="stylesheet" type="text/css" media="all" />
+<title>服装进销存管理系统WEB版</title>
+</head>
+<body>
+<div id=title>设置页眉页脚及设置页边距</div>
+<ol>
+<li>进入windows的注册表，首先要点击菜单的运行，然后录入命令regedit，如下图所示：<br>
+<img src=images/6.gif><br><br>
+<img src=images/regedit-01.gif></span></li><br>
+<li><span class="line3">在注册表编辑器中，找到设置IE打印的地方&quot; 
+      HKEY_CURRENT_USER\Software\Micro-soft\Internet 
+  Explorer\PageSetup&quot;，如下图所示：
+<img src=images/regedit-02.gif><br><br>
+参数说明：
+<UL>
+<LI>header--页眉，footer--页脚，margin_left--左边界 
+<LI>margin_top--上边界，margin_right--右边界，margin_bottom--下边界 
+<LI>页边距的设置中 1对应25.4mm，即margin_left=1表示实际值的25.4mm </LI></UL></span></li><br>
+<li><span class="line3">双击上图的'header'，可以修改页眉，把数据数据清空，如下图，就可以设置打印页眉为空白；同样，双击上图的&quot;footer&quot;，可以修改页脚：</span>
+<img src=images/regedit-03.gif><br><br>
+</li>
+<li>修改打印的页边距，双击'margin_left'，可以修改页边距的左边界，可以设置为0.25，相当于左边界为0.635厘米，如下图：
+<br><img src=images/regedit-04.gif><br>同样道理，设置页边距的上边界margin_top、下边界margin_bottom、右边界margin_right，点击确定后就完成了IE浏览器的打印设置，以后就不需要每次打印都要设置一次IE了。
+</ol>
+<script type='text/javascript' src='bottom.js'></script>
+</body>
+</html>

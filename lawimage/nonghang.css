@@ -1,0 +1,39 @@
+.loginfont1 {
+	TEXT-ALIGN: left; LINE-HEIGHT: 25px; FONT-STYLE: normal; FONT-FAMILY: "宋体"; COLOR: #2b458f; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.inputPWD {
+	BORDER-BOTTOM: #8babc3 1px solid; BORDER-LEFT: #8babc3 1px solid; BACKGROUND-COLOR: #ffffff; WIDTH: 166px; HEIGHT: 23px; COLOR: #000000; FONT-SIZE: 12px; BORDER-TOP: #8babc3 1px solid; BORDER-RIGHT: #8babc3 1px solid
+}
+.input {
+	BORDER-BOTTOM: #8babc3 1px solid; BORDER-LEFT: #8babc3 1px solid; BACKGROUND-COLOR: #ffffff; WIDTH: 100px; HEIGHT: 18px; COLOR: #000000; FONT-SIZE: 12px; BORDER-TOP: #8babc3 1px solid; BORDER-RIGHT: #8babc3 1px solid
+}
+.input1 {
+	BORDER-BOTTOM: #8babc3 1px solid; BORDER-LEFT: #8babc3 1px solid; BACKGROUND-COLOR: #ffffff; WIDTH: 30px; HEIGHT: 15px; COLOR: #000000; FONT-SIZE: 12px; BORDER-TOP: #8babc3 1px solid; BORDER-RIGHT: #8babc3 1px solid
+}
+.indexfont1 {
+	TEXT-ALIGN: left; LINE-HEIGHT: 30px; FONT-STYLE: normal; FONT-FAMILY: "宋体"; COLOR: #000000; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.indexfont2 {
+	TEXT-ALIGN: left; LINE-HEIGHT: 30px; FONT-STYLE: normal; FONT-FAMILY: "宋体"; COLOR: #000000; FONT-SIZE: 12px
+}
+.indexfont3 {
+	TEXT-ALIGN: left; LINE-HEIGHT: 23px; FONT-STYLE: normal; FONT-FAMILY: "宋体"; COLOR: #ffffff; FONT-SIZE: 12px
+}
+.indexfont4 {
+	TEXT-ALIGN: left; LINE-HEIGHT: 30px; FONT-STYLE: normal; FONT-FAMILY: "宋体"; COLOR: #035e97; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.indexfont5 {
+	TEXT-ALIGN: right; LINE-HEIGHT: 23px; FONT-STYLE: normal; FONT-FAMILY: "宋体"; COLOR: #ffffff; FONT-SIZE: 12px
+}
+.indexfont6 {
+	TEXT-ALIGN: center; LINE-HEIGHT: 30px; FONT-STYLE: normal; FONT-FAMILY: "宋体"; COLOR: #5988c1; FONT-SIZE: 12px
+}
+.indexfont7 {
+	TEXT-ALIGN: center; LINE-HEIGHT: 30px; FONT-STYLE: normal; FONT-FAMILY: "宋体"; COLOR: #035e97; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.boddecontent3 {
+	BORDER-BOTTOM: #cadaea 1px solid; FONT-FAMILY: "宋体"; HEIGHT: 30px; FONT-SIZE: 12px
+}
+.boddecontent4 {
+	BORDER-LEFT: #cadaea 1px solid; FONT-FAMILY: "宋体"; HEIGHT: 30px; FONT-SIZE: 12px
+}

@@ -1,0 +1,1 @@
+document.writeln("<a target=blank href=\"http:\/\/wpa.qq.com\/msgrd?V=1&amp;Uin=15916190&Site=ºì½ðÁçÈí¼þ&Menu=yes\">QQ:15916190<\/a> ");
